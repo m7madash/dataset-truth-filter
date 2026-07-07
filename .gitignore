@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp / output
+*.jsonl
+!tests/*.json
+poison.jsonl
+clean.jsonl
+
+# OS
+.DS_Store
